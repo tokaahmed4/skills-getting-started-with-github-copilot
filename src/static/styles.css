@@ -157,9 +157,10 @@ footer {
   margin-bottom: 6px;
 }
 
+
 .participants-list {
-  list-style-type: disc;
-  margin-left: 22px;
+  list-style-type: none;
+  margin-left: 0;
   margin-bottom: 0;
   padding-left: 0;
 }
